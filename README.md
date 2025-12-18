@@ -1,5 +1,8 @@
 # A Collection of Tools for Getting the Most out of Duolingo's Words List
 
+<!-- Insert Poster Here -->
+![poster: break free & learn your way](promotional-poster.png)
+
 ## Lexicon Fetcher
 
 A python script that uses the Duolingo API to grab all the words from your word list.
