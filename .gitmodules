@@ -3,4 +3,4 @@
 	url = https://github.com/Allie72-Aur/Duolingo_Lexicon_Fetcher.git
 [submodule "Duolingo_Vocabulary_Scraper"]
 	path = Duolingo_Vocabulary_Scraper
-	url = https://github.com/Allie72-Aur/Duolingo_Vocab_Scraper.git
+	url = https://github.com/Allie72-Aur/Duolingo_Vocabulary_Scraper.git
